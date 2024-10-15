@@ -1,0 +1,1 @@
+Rename all .ee file to .exe files

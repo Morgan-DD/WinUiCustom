@@ -1,0 +1,1 @@
+in .glzr ther is my confing for https://github.com/glzr-io/glazewm

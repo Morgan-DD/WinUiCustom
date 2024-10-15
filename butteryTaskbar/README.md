@@ -1,0 +1,1 @@
+program used to hide the taskbar, u can still see it if u press the Win key
