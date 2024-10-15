@@ -39,3 +39,8 @@ spotify:
     in powershell:  
     `iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
 - https://github.com/Comfy-Themes/Spicetify
+
+
+## stuff that i found and wanna try:
+
+https://github.com/OrbEnforcer/Windux/tree/main?tab=readme-ov-file
