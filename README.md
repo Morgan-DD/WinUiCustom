@@ -5,6 +5,8 @@ there is all the files needed for my config
 
 here is links for my inspiration and sources for my config
   
+wallpapers
+- https://www.uhdpaper.com/2024/05/angel-wings-anime-girl-4k-7303a.html?m=0
 
 all:  
 - https://www.reddit.com/r/desktops/comments/1g237h0/my_desktop_setup_video_guide_in_the_description/
@@ -44,3 +46,6 @@ spotify:
 ## stuff that i found and wanna try:
 
 https://github.com/OrbEnforcer/Windux/tree/main?tab=readme-ov-file
+https://github.com/aquapaka/dotfiles
+https://www.reddit.com/r/desktops/comments/1fb9zne/i_thought_you_couldnt_be_productive_on_windows/
+hyperland void (arch)

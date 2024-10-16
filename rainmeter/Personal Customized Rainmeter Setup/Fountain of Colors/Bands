@@ -1,0 +1,18 @@
+
+[Audio0]
+Measure=Plugin
+Plugin=AudioLevelBeta
+Parent=Audio
+Type=Band
+[Calc0]
+Measure=Calc
+Formula=(Max(Audio0, 1))
+[0]
+Meter=Bar
+MeasureName=Calc0
+[ms_calcGhost0]
+Measure=Calc
+Formula=[&lua_Ghost:GetValue( 0 )]
+[mt_barGhost0]
+Meter=Bar
+MeasureName=ms_calcGhost0
