@@ -1,0 +1,5 @@
+[2m2024-10-09T11:45:10.510475Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'zebar'.\n\nError: L’opération a été annulée par l’utilisateur. (0x800704C7)"
+[2m2024-10-09T11:47:51.977992Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-09T11:54:50.771112Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'zebar'.\n\nError: L’opération a été annulée par l’utilisateur. (0x800704C7)"
+[2m2024-10-09T11:55:12.403851Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-10T06:24:28.125713Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
