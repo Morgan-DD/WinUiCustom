@@ -49,6 +49,9 @@ rainmeter:
 All window transparent:
  - https://github.com/littletijn/spooky-view
 
+set brightness for each screen:
+ - https://twinkletray.com/
+
 
 ## stuff that i found and wanna try and idea:
 
