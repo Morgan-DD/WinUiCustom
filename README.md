@@ -46,6 +46,9 @@ spotify:
 rainmeter:
   - https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648 (game launcher)
 
+All window transparent:
+ - https://github.com/littletijn/spooky-view
+
 
 ## stuff that i found and wanna try and idea:
 
