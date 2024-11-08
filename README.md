@@ -19,7 +19,8 @@ catppuccin:
 - https://github.com/iQuickDev/catppuccin-wallpapers
 
 niivu theme:  
-- https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422 (pack)
+  Guide: https://www.deviantart.com/niivu/art/How-to-install-Windows-10-or-11-Themes-708835586
+- https://www.deviantart.com/niivu/art/Catppuccin-for-Windows-11-1076249390 (pack)
 - https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422 (exe)
 
 vscode:  
@@ -51,6 +52,9 @@ All window transparent:
 
 set brightness for each screen:
  - https://twinkletray.com/
+
+set transparency easly:
+  - https://github.com/littletijn/spooky-view
 
 
 ## stuff that i found and wanna try and idea:
