@@ -28,6 +28,7 @@ vscode:
 - opacity by SkaceKachna (opacity 210)
 
 terminal:  
+  for Win10, install https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare so you can change the theme, not needed on Win11
 - https://zimmergren.net/enable-transparent-background-in-windows-terminal/
     opacity(65)
 
