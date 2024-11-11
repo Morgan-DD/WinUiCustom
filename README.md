@@ -70,3 +70,4 @@ https://www.reddit.com/r/desktops/comments/1elwp9l/my_new_desktop_set_up_d_wallp
 https://github.com/lunar-os/windowsdesktop2
 https://www.reddit.com/r/desktops/comments/1ehao5s/suisei_11/
 https://droptopfour.com/
+https://learn.microsoft.com/en-us/windows/terminal/terminal-chat (IA on win cmd)
